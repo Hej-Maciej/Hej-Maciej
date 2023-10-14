@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Maciej
+- 👀 I’m interested in everything related to automation
+- 🌱 I’m currently developing my knowledge about java, selenium, appium and tools which can help to automate any mobile and web app
